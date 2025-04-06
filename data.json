@@ -1,0 +1,32 @@
+{
+    "students": {
+      "student1": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "age": 22,
+        "gender": "female",
+        "course": "SDET",
+        "skill": "JavaScript",
+        "profile": "Frontend Developer"
+      },
+      "student2": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "age": 24,
+        "gender": "male",
+        "course": "DA",
+        "skill": "Python",
+        "profile": "Data Analyst"
+      },
+      "student3": {
+        "name": "Charlie Lee",
+        "email": "charlie.lee@example.com",
+        "age": 23,
+        "gender": "male",
+        "course": "SDET",
+        "skill": "Java, Selenium",
+        "profile": "Test Engineer"
+      }
+    }
+  }
+  
